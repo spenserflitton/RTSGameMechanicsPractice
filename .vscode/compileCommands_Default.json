@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\Source\\MyFirstRTS\\MyBPLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\.vscode\\compileCommands_Default\\MyFirstRTS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\Source\\MyFirstRTS\\MyBPLibrary.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\.vscode\\compileCommands_Default\\MyFirstRTS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\Source\\MyFirstRTS\\MyFirstRTS.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\.vscode\\compileCommands_Default\\MyFirstRTS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\Source\\MyFirstRTS\\MyFirstRTS.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\.vscode\\compileCommands_Default\\MyFirstRTS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\Source\\MyFirstRTS\\MyFirstRTS.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Spenser\\Documents\\Unreal Projects\\RTSGameMechanicsPractice\\MyFirstRTS\\.vscode\\compileCommands_Default\\MyFirstRTS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
